@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\bin\Debug\TxtEditor.exe.config
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\bin\Debug\TxtEditor.exe
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\bin\Debug\TxtEditor.pdb
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.Form1.resources
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.Properties.Resources.resources
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.exe
+C:\Users\PC\source\repos\TxtEditor\TxtEditor\obj\Debug\TxtEditor.pdb
